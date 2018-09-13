@@ -14,6 +14,6 @@ Requirements:
   FTChipID.dll
   .NET Components 2.0
 Designed for Microsoft Windows Operating Systems
-Compiled & Built on Windows 8.1 Pro x64 14/9/2018
+Compiled & Built on Windows 8.1 Pro x64 as Windows .Net Form Application 2.0
 Developed in Visual Studio 2015
-Licensed To HaKDModz™ Development modifications made by ®2018 HaKDMoDz™
+Licensed To HaKDModz™ Development modifications made by ®2018 HaKDMoDz™ 14/9/2018
