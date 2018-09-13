@@ -1,0 +1,17 @@
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Debug\CSChipID.exe
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Debug\CSChipID.pdb
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Debug\FTChipIDNet.dll
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Debug\CSChipID.MainForm.resources
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Debug\CSChipID.csproj.GenerateResource.Cache
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Debug\CSChipID.exe
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Debug\CSChipID.pdb
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Debug\CSChipID.exe.config
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Debug\CSChipID.csprojResolveAssemblyReference.cache
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\bin\Debug\CSChipID.exe.config
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\obj\Debug\CSChipID.exe
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\obj\Debug\CSChipID.pdb
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\bin\Debug\CSChipID.exe
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\bin\Debug\CSChipID.pdb
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\obj\Debug\CSChipID.csprojResolveAssemblyReference.cache
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\obj\Debug\CSChipID.MainForm.resources
+C:\Users\Hakdmodz\Documents\Visual Studio 2015\Projects\CSChipID\CSChipID\obj\Debug\CSChipID.csproj.GenerateResource.Cache

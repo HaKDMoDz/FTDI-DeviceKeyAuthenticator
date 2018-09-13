@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSChipID", "CSChipID\CSChipID.csproj", "{8A678D57-68CE-494B-BD29-5BE9488A455F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8A678D57-68CE-494B-BD29-5BE9488A455F}.Debug.ActiveCfg = Debug|.NET
+		{8A678D57-68CE-494B-BD29-5BE9488A455F}.Debug.Build.0 = Debug|.NET
+		{8A678D57-68CE-494B-BD29-5BE9488A455F}.Release.ActiveCfg = Release|.NET
+		{8A678D57-68CE-494B-BD29-5BE9488A455F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

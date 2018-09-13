@@ -1,0 +1,5 @@
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Release\CSChipID.exe
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\bin\Release\FTChipIDNet.dll
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Release\CSChipID.MainForm.resources
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Release\CSChipID.csproj.GenerateResource.Cache
+C:\Users\Hakdmodz\Downloads\FTDIChip-ID Projects\CSChipID\CSChipID\obj\Release\CSChipID.exe
