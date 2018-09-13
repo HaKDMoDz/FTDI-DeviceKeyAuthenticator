@@ -1,4 +1,4 @@
-# FTDI-DeviceKeyAuthenticator
+# ®FTDI-DeviceKeyAuthenticator ©2018
 FTDI232 Device information Gathered
 * Device Serial Number
 * Device Location
@@ -13,4 +13,7 @@ Requirements:
   FTChipIDNet.dll
   FTChipID.dll
   .NET Components 2.0
-Designed for Windows and Compiled on Windows 8.1 Pro x64 14/9/2018
+Designed for Microsoft Windows Operating Systems
+Compiled & Built on Windows 8.1 Pro x64 14/9/2018
+Developed in Visual Studio 2015
+Licensed To HaKDModz™ Development modifications made by ®2018 HaKDMoDz™
